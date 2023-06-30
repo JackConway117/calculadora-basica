@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/calculadora-basica/static/css/main.89752862.css",
+    "main.js": "/calculadora-basica/static/js/main.c627969b.js",
+    "static/js/787.b40da706.chunk.js": "/calculadora-basica/static/js/787.b40da706.chunk.js",
+    "static/media/utd-logo.png": "/calculadora-basica/static/media/utd-logo.e54cf5c49a1b3abd0370.png",
+    "index.html": "/calculadora-basica/index.html",
+    "main.89752862.css.map": "/calculadora-basica/static/css/main.89752862.css.map",
+    "main.c627969b.js.map": "/calculadora-basica/static/js/main.c627969b.js.map",
+    "787.b40da706.chunk.js.map": "/calculadora-basica/static/js/787.b40da706.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89752862.css",
+    "static/js/main.c627969b.js"
+  ]
+}
